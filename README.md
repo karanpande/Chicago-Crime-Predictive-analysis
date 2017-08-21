@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 TEAM RAGING BULLS 
 
 
@@ -208,4 +208,4 @@ In this project, we used data mining techniques to perform predictive tasks on c
 
 
 
->>>>>>> bcc46d648e2b0e3c608ea59becd77d9d6a744922
+
