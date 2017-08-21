@@ -29,7 +29,7 @@ f.	Duplicates observations have been removed.
 
 ➢	EXPLORATORY ANALYSIS 
 
-
+File present in the repository.
 
 
 
@@ -94,6 +94,7 @@ This indicates that the arrest probability for the type of crime committed has a
 ➢	CONCLUSION 
 
 In this project, we used data mining techniques to perform predictive tasks on crime data. A predictive task wes implemented - predicting arrests for a given type of crime in a given location. Pre-processing of data prior to training the model helped us identify useful features for building the models. The models used the techniques we learnt in the course. The results from evaluation are discussed and documented. Though we observed repeated patterns in crime count over months with summer being the highest, it did not add value to the prediction of whether or not arrests will be made but did help influence the prediction in term of number of crimes in a beatday. The type of crime also played strong role in predicting arrests and crime frequencies in Chicago. These tasks can be further extended to include much more extensive patterns in predictive crime if information about the victims and the offenders are made available.
+
 
 
 
