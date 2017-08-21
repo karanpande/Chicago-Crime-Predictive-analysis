@@ -7,10 +7,12 @@ Team members
 Karan Pande, Shweta Khairnar, Harpreet Kour, Kartik Rajput
 
 ➢	Abstract
+
 We identify a predictive task, train and evaluate models to perform predictions if an arrest would be carried out for a crime.We do this by taking into consideration the area code , the beat were the crime has taken place and the type of crime into consideration. 
 
 
 ➢	Dataset 
+
 The dataset chosen for this project consists of incidents of crime reported in the city of Chicago from 2001 to 2017. 
 
 Source: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
@@ -18,6 +20,7 @@ Title: Crimes_-_2001_to_present
 
 
 ➢	DATA CLEANING
+
 Below Data Cleaning have been done to make our analysis way easier and observatory:
 
 a.	The dataset has been reduced to year '2007-2017' as it was too large with 6297578 observations.
