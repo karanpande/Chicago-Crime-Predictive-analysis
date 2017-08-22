@@ -6,12 +6,12 @@ Team members
 
 Karan Pande, Shweta Khairnar, Harpreet Kour, Kartik Rajput
 
-➢	Abstract
+# ➢	Abstract
 
 We identify a predictive task, train and evaluate models to perform predictions if an arrest would be carried out for a crime.We do this by taking into consideration the area code , the beat were the crime has taken place and the type of crime into consideration. 
 
 
-➢	Dataset 
+# ➢	Dataset 
 
 The dataset chosen for this project consists of incidents of crime reported in the city of Chicago from 2001 to 2017. 
 
@@ -20,7 +20,7 @@ Source: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp
 Title: Crimes_-_2001_to_present
 
 
-➢	DATA CLEANING
+# ➢	DATA CLEANING
 
 Below Data Cleaning have been done to make our analysis way easier and observatory:
 
@@ -32,14 +32,14 @@ e.	Converted different format of ‘Non-Criminal’ category under Primary. Type
 f.	Duplicates observations have been removed.
 
 
-➢	EXPLORATORY ANALYSIS 
+# ➢	EXPLORATORY ANALYSIS 
 
 File present in the repository.
 
 
 
 
-➢	PREDICTIVE TASK 
+# ➢	PREDICTIVE TASK 
 
 We identified a predictive task based on the information available in the data set. 
 
@@ -84,7 +84,7 @@ Knn() function returns a factor value of arrest labels for each observation in t
 
 
 
-➢	EVALUATION AND RESULTS 
+# ➢	EVALUATION AND RESULTS 
 
 The following section documents the evaluation results for the predictive tasks described in the previous section. Explanatory variables are defined and predictive models are built in an attempt to improve the  performance. The results are documented and analyzed. 
 
@@ -96,7 +96,7 @@ The total accuracy of the model is 82%
 
 This indicates that the arrest probability for the type of crime committed has a very strong influence in whether or not there will be an arrest. 
 
-➢	CONCLUSION 
+# ➢	CONCLUSION 
 
 In this project, we used data mining techniques to perform predictive tasks on crime data. A predictive task wes implemented - predicting arrests for a given type of crime in a given location. Pre-processing of data prior to training the model helped us identify useful features for building the models. The models used the techniques we learnt in the course. The results from evaluation are discussed and documented. Though we observed repeated patterns in crime count over months with summer being the highest, it did not add value to the prediction of whether or not arrests will be made but did help influence the prediction in term of number of crimes in a beatday. The type of crime also played strong role in predicting arrests and crime frequencies in Chicago. These tasks can be further extended to include much more extensive patterns in predictive crime if information about the victims and the offenders are made available.
 
